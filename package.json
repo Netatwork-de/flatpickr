@@ -1,5 +1,5 @@
 {
-  "name": "flatpickr",
+  "name": "@netatwork/flatpickr",
   "version": "4.6.4",
   "description": "A lightweight, powerful javascript datetime picker",
   "scripts": {
@@ -48,6 +48,7 @@
     "rollup-plugin-livereload": "^1.0.4",
     "rollup-plugin-serve": "1.0.1",
     "rollup-plugin-typescript": "^1.0.1",
+    "standard-version": "^7.1.0",
     "stylus": "latest",
     "terser": "^4.6.6",
     "ts-jest": "^25.2.1",
@@ -60,7 +61,7 @@
   "types": "./dist/typings.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chmln/flatpickr.git"
+    "url": "git+https://github.com/Netatwork-de/flatpickr.git"
   },
   "author": "Gregory <gregory.mkv@gmail.com>",
   "license": "MIT",
